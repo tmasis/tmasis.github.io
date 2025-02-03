@@ -21,6 +21,15 @@ I also live with a chronic pain condition, which significantly impacts my life a
 
 ## RESEARCH
 
+*Multilingualism, Transnationality, and K-pop in the Online #StopAsianHate Movement.*
+<br>**Tessa Masis**, Zhangqi Duan, Weiai Xu, Jane Pyo, Ethan Zuckerman, and Brendan O'Connor.
+<br>WebSci, 2025.
+
+*Where on Earth Do Users Say They Are?: Geo-Entity Linking for Noisy Multilingual User Input.*
+<br>**Tessa Masis** and Brendan O'Connor.
+<br>IC2S2, 2024. \[[abstract]({static}/files/IC2S2_24_final.pdf)\] \[[slides]({static}/files/IC2S2_presentation.pdf)\]
+<br>NLP+CSS Workshop at NAACL, 2024. \[[paper](https://aclanthology.org/2024.nlpcss-1.7/)\] \[[poster]({static}/files/Masis_CSS-NLP_poster.pdf)\]
+
 *The Online #StopAsianHate Movement: More Global and BTS-Driven Than You'd Think.*
 <br>**Tessa Masis**, Zhangqi Duan, Weiai Xu, Jonathan Corpus Ong, Ethan Zuckerman, Jane Pyo, and Brendan O'Connor.
 <br>TADA, 2023. \[[abstract]({static}/files/TADA_abstract.pdf)\] \[[poster]({static}/files/TADAposter.pdf)\]
